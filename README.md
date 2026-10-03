@@ -10,10 +10,10 @@ A retro-terminal themed 2D arcade shooter built with Java. Defend your Arch Linu
 ![Main Menu](Menu.png)
 
 ### Man Page (Controls)
-![Man Page](.png)
+![Man Page](Control-Menu.png)
 
 ### Gameplay
-![Gameplay](In Game.png)
+![Gameplay](In-Game.png)
 
 ## About The Game
 
