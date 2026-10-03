@@ -47,7 +47,7 @@ If a distro slips past or hits your system directly, it triggers a **KERNEL PANI
 
 The easiest way to play on Linux is using the pre-compiled AppImage.
 
-1. Go to the [Releases](../../releases) page and download `DistroInvaders-x86_64.AppImage`.
+1. Go to the [Releases](../../releases) page and download `Distro_Invaders-x86_64.AppImage`.
 2. Make it executable:
    ```bash
    chmod +x Distro_Invaders-x86_64.AppImage
