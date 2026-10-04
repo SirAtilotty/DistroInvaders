@@ -10,10 +10,10 @@ A retro-terminal themed 2D arcade shooter built with Java. Defend your Arch Linu
 ![Main Menu](ScreenShots/Menu.png)
 
 ### Man Page (Controls)
-![Man Page](Control-Menu.png)
+![Man Page](ScreenShots/Control-Menu.png)
 
 ### Gameplay
-![Gameplay](In-Game.png)
+![Gameplay](ScreenShots/In-Game.png)
 
 ## About The Game
 
@@ -101,16 +101,16 @@ The highly anticipated **v1.1.0** update transforms the game from a single-ship 
 ### 📸 v1.1.0 Screenshots
 
 **Main Menu (High Score Display)**
-![High Score](new-highscore.png)
+![High Score](ScreenShots/new-highscore.png)
 
 **Distro Selection: Arch Linux**
-![Select Arch](select-arch.png)
+![Select Arch](ScreenShots/select-arch.png)
 
 **Distro Selection: Debian**
-![Select Debian](select-debian.png)
+![Select Debian](ScreenShots/select-debian.png)
 
 **Distro Selection: Fedora**
-![Select Fedora](select-fedora.png)
+![Select Fedora](ScreenShots/select-fedora.png)
 
 **Distro Selection: Gentoo**
-![Select Gentoo](select-gentoo.png)
+![Select Gentoo](ScreenShots/select-gentoo.png)
