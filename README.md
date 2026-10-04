@@ -91,12 +91,12 @@ The highly anticipated **v1.1.0** update transforms the game from a single-ship 
 
 ### 🌟 New Features
 
-* **Distro Selection Screen:** You are no longer limited to just Arch Linux[cite: 14, 15, 16, 17]. You can now choose your fighter (distro) before initializing the system, each with unique passive perks:
-  * **Arch Linux:** *Rolling Strafe* - Shoot while moving[cite: 17].
-  * **Debian:** *Rock Solid* - Starts with 2 HP, but has a slower fire rate (280ms)[cite: 16].
-  * **Fedora:** *Cutting Edge* - Fires a Dual Laser (240ms)[cite: 15].
-  * **Gentoo:** *Source Compiled* - Grants +50% movement speed (160ms)[cite: 14].
-* **High Score Tracking:** The main menu now saves and displays your highest Purge count (High Score) locally[cite: 18]. Compete against your own uptime records!
+* **Distro Selection Screen:** You are no longer limited to just Arch Linux. You can now choose your fighter (distro) before initializing the system, each with unique passive perks:
+  * **Arch Linux:** *Rolling Strafe* - Shoot while moving
+  * **Debian:** *Rock Solid* - Starts with 2 HP, but has a slower fire rate (280ms).
+  * **Fedora:** *Cutting Edge* - Fires a Dual Laser (240ms)
+  * **Gentoo:** *Source Compiled* - Grants +50% movement speed (160ms)
+* **High Score Tracking:** The main menu now saves and displays your highest Purge count (High Score) locally. Compete against your own uptime records!
 
 ### 📸 v1.1.0 Screenshots
 
